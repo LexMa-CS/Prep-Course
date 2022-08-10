@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño
+ de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: Son elementos de JavaScript que nos permiten almacenar, modificar y hacer operaciones con datos que nosotros creamos convenientes.
+              En JavaScript se define con la palabra reservada 'var' seguido del nombre, la asignación del valor no es obligatorio.
+
+ * Strings: Son cadenas de caracteres que están dentro de comillas.
+ * Funciones (argumentos, `return`): Las funciones nos permiten que las sentencias que escribimos no sean repetidas cada vez que los necesitemos, 
+                                     sino que ya se almacenan las acciones dentro de una sintaxis y retornan valores.
+                                     Pueden utilizar o no los argumentos.
+ * Declaraciones `if`: Las Declaraciones if son condicionales, que si es que se cumple la condición ejecuta la acción que definimos, en caso contrario,
+                       no lo hace.
+ * Valores booleanos (`true`, `false`): Los valores booleanos son aquellos valores que se muestran como Verdadero y Falso, también se representan como 1 y 0.
