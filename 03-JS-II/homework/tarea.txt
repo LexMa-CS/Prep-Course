@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+ Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+Es un bucle que nos ayuda a realizar tareas repetitivas una cantidad específica de veces, de acuerdo a las condiciones que le ponemos.
+
+* `&&`, `||`, `!`
+
+El '&&' es un operador lógico que es el AND y cumple las mismas funciones que en la matemática booleana, solo es verdadero cuando ambos son verdaderos, en caso contrario, asume el valor de falso.
+
+El '||' es el operador lógico OR que en caso de que uno de los operandos sea verdadero, ya se considera verdadero el resultado, la única vez en la que el resultado sea falso, será cuando ambos sean falsos.
+
+El '!' es el operador lógico NOT, lo que realiza es negar o cambiar el valor. En caso sea verdadero lo hará falso; en caso sea falso lo hará verdadero.
