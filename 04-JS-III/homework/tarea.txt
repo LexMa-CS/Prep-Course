@@ -1,0 +1,5 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: Es una estructura que nos permite almacenar cualquier tipo de dato, incluso funciones, nos permite realizar operaciones con sus elementos como agregar, eliminar, etc.
+        Son datos no ordenados.
